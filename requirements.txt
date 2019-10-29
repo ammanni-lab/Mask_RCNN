@@ -10,5 +10,3 @@ opencv-python
 h5py
 imgaug
 IPython[all]
-flake8
-isort
